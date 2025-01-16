@@ -3,10 +3,12 @@ DerivedDataCache
 Intermediate
 Saved
 Build
+Makefile
 
 .vscode
 .vsconfig
 .vs
+*.code-workspace
 *.VC.db
 *.opensdf
 *.opendb
